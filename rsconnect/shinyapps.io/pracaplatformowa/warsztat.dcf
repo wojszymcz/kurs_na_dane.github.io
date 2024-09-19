@@ -1,0 +1,12 @@
+name: warsztat
+title: warsztat
+username: pracaplatformowa
+account: pracaplatformowa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12477147
+bundleId: 9001531
+url: https://pracaplatformowa.shinyapps.io/warsztat/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
